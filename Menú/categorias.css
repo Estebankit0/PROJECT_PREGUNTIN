@@ -1,0 +1,187 @@
+body {
+    background-image: url("Resource/imagen.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div.bot1 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 220px;
+    top: 228px;
+}       
+.boton1{
+    background-color: #f6f3c1;
+    border: none;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton1:hover {
+    background-color: #fcf8c4;
+    color: black;
+    }
+div.bot2 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 624px;
+    top: 228px;
+}       
+.boton2{
+    background-color: #f6f3c1;
+    border: none;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton2:hover {
+    background-color: #fcf8c4;
+    color: black;
+}
+div.bot3 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 1037px;
+    top: 228px;
+}       
+.boton3{
+    background-color: #f6f3c1;
+    border: none;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton3:hover {
+    background-color: #fcf8c4;
+    color: black;
+}
+div.bot4 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 1445px;
+    top: 228px;
+}       
+.boton4{
+    background-color: #f6f3c1;
+    border: none;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton4:hover {
+    background-color: #fcf8c4;
+    color: black;
+}
+div.bot5 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 430px;
+    top: 650px;
+}       
+.boton5{
+    background-color: #f6f3c1;
+    border: none;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton5:hover {
+    background-color: #fcf8c4;
+    color: black;
+}
+div.bot6 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 836px;
+    top: 650px;
+}       
+.boton6{
+    background-color: #f6f3c1;
+    border: none;
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton6:hover {
+    background-color: #fcf8c4;
+    color: black;
+}
+div.bot7 {
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    left: 1245px;
+    top: 650px;
+}       
+.boton7{
+    background-color: #f6f3c1;
+    border: none; 
+    border-radius: 10%;
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.boton7:hover {
+    background-color: #fcf8c4;
+    color: black;
+}
