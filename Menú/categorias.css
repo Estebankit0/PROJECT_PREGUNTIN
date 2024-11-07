@@ -1,187 +1,117 @@
+* {
+    transition: all 0.3s;
+}
+
 body {
-    background-image: url("Resource/imagen.png");
-    background-size: cover;
+    background-image: url("imagen.png");
     background-repeat: no-repeat;
-}
-div.bot1 {
-    width: 180px;
-    height: 180px;
-    position: fixed;
-    left: 220px;
-    top: 228px;
-}       
-.boton1{
-    background-color: #f6f3c1;
-    border: none;
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
+    padding: 0;
+    margin: 0;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-family: 'Gill Sans';
+    color: rgb(0, 0, 0);
+    font-size: 120%;
+}
+
+.contenedor {
+    width: 98vw;
+    height: 97vh;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
+div.contenedor{
+    left: 622px;
+    top: 80px;
+}
+
+.encabezado {
+    position: relative;
+    background: rgb(142, 72, 199);
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 30px;
+}
+
+.categoria {
+    opacity: 0.5;
+    text-align: left;
+}
+
+.pregunta {
+    padding: 10px;
+}
+
+.btn1 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
     cursor: pointer;
 }
-.boton1:hover {
-    background-color: #fcf8c4;
-    color: black;
-    }
-div.bot2 {
-    width: 180px;
-    height: 180px;
+div.btn1 {
+    height: 20px;
     position: fixed;
-    left: 624px;
-    top: 228px;
-}       
-.boton2{
-    background-color: #f6f3c1;
-    border: none;
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    left: 62px;
+    top: 400px;
+} 
+.btn2 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
     cursor: pointer;
 }
-.boton2:hover {
-    background-color: #fcf8c4;
-    color: black;
-}
-div.bot3 {
-    width: 180px;
-    height: 180px;
+div.btn2 {
+    height: 20px;
     position: fixed;
-    left: 1037px;
-    top: 228px;
-}       
-.boton3{
-    background-color: #f6f3c1;
-    border: none;
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    left: 1230px;
+    top: 400px;
+} 
+.btn3 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
     cursor: pointer;
 }
-.boton3:hover {
-    background-color: #fcf8c4;
-    color: black;
-}
-div.bot4 {
-    width: 180px;
-    height: 180px;
+div.btn3 {
+    height: 20px;
     position: fixed;
-    left: 1445px;
-    top: 228px;
-}       
-.boton4{
-    background-color: #f6f3c1;
-    border: none;
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    left: 1230px;
+    top: 700px;
+} 
+.btn4 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
     cursor: pointer;
 }
-.boton4:hover {
-    background-color: #fcf8c4;
-    color: black;
-}
-div.bot5 {
-    width: 180px;
-    height: 180px;
+div.btn4 {
+    height: 20px;
     position: fixed;
-    left: 430px;
-    top: 650px;
-}       
-.boton5{
-    background-color: #f6f3c1;
-    border: none;
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
+    left: 62px;
+    top: 700px;
 }
-.boton5:hover {
-    background-color: #fcf8c4;
-    color: black;
+
+.btn:hover {
+    transform: scale(1.05);
+}           
+  
+.numero{
+    position: absolute;
+    opacity:0.5;
+    top: 10px;
+    right: 10px;
 }
-div.bot6 {
-    width: 180px;
-    height: 180px;
-    position: fixed;
-    left: 836px;
-    top: 650px;
-}       
-.boton6{
-    background-color: #f6f3c1;
-    border: none;
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-.boton6:hover {
-    background-color: #fcf8c4;
-    color: black;
-}
-div.bot7 {
-    width: 180px;
-    height: 180px;
-    position: fixed;
-    left: 1245px;
-    top: 650px;
-}       
-.boton7{
-    background-color: #f6f3c1;
-    border: none; 
-    border-radius: 10%;
-    height: 200px;
-    width: 200px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-.boton7:hover {
-    background-color: #fcf8c4;
-    color: black;
+  
+.puntaje{
+    padding:10px;
+    color:rgb(0, 0, 0);
 }

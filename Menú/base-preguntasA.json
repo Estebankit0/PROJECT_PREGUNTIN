@@ -1,0 +1,218 @@
+[
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent van Gogh",
+        "incorrecta3": "Salvador Dalí"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿En qué movimiento artístico se destaca la obra de Salvador Dalí?",
+        "respuesta": "Surrealismo",
+        "incorrecta1": "Impresionismo",
+        "incorrecta2": "Cubismo",
+        "incorrecta3": "Realismo"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Quién es conocido como el padre del cubismo?",
+        "respuesta": "Pablo Picasso",
+        "incorrecta1": "Henri Matisse",
+        "incorrecta2": "Marcel Duchamp",
+        "incorrecta3": "Claude Monet"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué tipo de arte se caracteriza por la representación de paisajes y escenas naturales?",
+        "respuesta": "Paisajismo",
+        "incorrecta1": "Retrato",
+        "incorrecta2": "Bodegón",
+        "incorrecta3": "Surrealismo"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué técnica artística utiliza pigmentos diluidos en agua sobre una superficie de papel?",
+        "respuesta": "Acuarela",
+        "incorrecta1": "Óleo",
+        "incorrecta2": "Carboncillo",
+        "incorrecta3": "Pastel"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Cuál es el autor de la escultura 'El Pensador'?",
+        "respuesta": "Auguste Rodin",
+        "incorrecta1": "Michelangelo",
+        "incorrecta2": "Donatello",
+        "incorrecta3": "Gian Lorenzo Bernini"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué técnica escultórica consiste en quitar material de una masa inicial?",
+        "respuesta": "Escultura en relieve",
+        "incorrecta1": "Escultura en modelado",
+        "incorrecta2": "Escultura en ensamblaje",
+        "incorrecta3": "Escultura en vaciado"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Quién pintó la obra 'La noche estrellada'?",
+        "respuesta": "Vincent van Gogh",
+        "incorrecta1": "Claude Monet",
+        "incorrecta2": "Edvard Munch",
+        "incorrecta3": "Georges Seurat"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué pintor español es conocido por su obra 'Guernica'?",
+        "respuesta": "Pablo Picasso",
+        "incorrecta1": "Salvador Dalí",
+        "incorrecta2": "Francisco de Goya",
+        "incorrecta3": "Diego Rivera"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿En qué ciudad se encuentra el Museo del Louvre?",
+        "respuesta": "París",
+        "incorrecta1": "Roma",
+        "incorrecta2": "Madrid",
+        "incorrecta3": "Londres"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué artista pintó la obra 'La última cena'?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Michelangelo",
+        "incorrecta2": "Caravaggio",
+        "incorrecta3": "Rafael"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué pintor es famoso por sus cuadros de flores, especialmente girasoles?",
+        "respuesta": "Vincent van Gogh",
+        "incorrecta1": "Claude Monet",
+        "incorrecta2": "Paul Cézanne",
+        "incorrecta3": "Gustav Klimt"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué corriente artística es conocida por su énfasis en la luz y el color, y a menudo utiliza pinceladas rápidas?",
+        "respuesta": "Impresionismo",
+        "incorrecta1": "Barroco",
+        "incorrecta2": "Renacimiento",
+        "incorrecta3": "Realismo"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué famoso escultor italiano creó 'David'?",
+        "respuesta": "Michelangelo",
+        "incorrecta1": "Donatello",
+        "incorrecta2": "Bernini",
+        "incorrecta3": "Gian Lorenzo Bernini"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué pintor es famoso por su serie de pinturas de nenúfares?",
+        "respuesta": "Claude Monet",
+        "incorrecta1": "Henri Matisse",
+        "incorrecta2": "Pablo Picasso",
+        "incorrecta3": "Vincent van Gogh"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué famoso artista surrealista pintó 'La persistencia de la memoria'?",
+        "respuesta": "Salvador Dalí",
+        "incorrecta1": "Rene Magritte",
+        "incorrecta2": "Max Ernst",
+        "incorrecta3": "Frida Kahlo"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué pintor fue uno de los fundadores del cubismo junto con Pablo Picasso?",
+        "respuesta": "Georges Braque",
+        "incorrecta1": "Henri Matisse",
+        "incorrecta2": "Edvard Munch",
+        "incorrecta3": "Marc Chagall"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué movimiento artístico se caracteriza por la representación abstracta de la realidad?",
+        "respuesta": "Cubismo",
+        "incorrecta1": "Expresionismo",
+        "incorrecta2": "Futurismo",
+        "incorrecta3": "Dadaísmo"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué artista mexicano es famoso por sus murales en la Ciudad de México?",
+        "respuesta": "Diego Rivera",
+        "incorrecta1": "David Alfaro Siqueiros",
+        "incorrecta2": "Frida Kahlo",
+        "incorrecta3": "José Clemente Orozco"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿En qué museo se encuentran las obras de arte de la colección de los Médici?",
+        "respuesta": "Galería Uffizi",
+        "incorrecta1": "Museo del Prado",
+        "incorrecta2": "Museo de Orsay",
+        "incorrecta3": "Museo Vaticano"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué movimiento artístico se basa en la distorsión de la figura humana para expresar emociones intensas?",
+        "respuesta": "Expresionismo",
+        "incorrecta1": "Realismo",
+        "incorrecta2": "Surrealismo",
+        "incorrecta3": "Impresionismo"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué tipo de arte se caracteriza por el uso de la luz y sombra para crear una atmósfera dramática?",
+        "respuesta": "Claroscuro",
+        "incorrecta1": "Impresionismo",
+        "incorrecta2": "Surrealismo",
+        "incorrecta3": "Art Deco"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué pintor flamenco es famoso por sus obras de naturaleza muerta y retratos, como 'La joven de la perla'?",
+        "respuesta": "Johannes Vermeer",
+        "incorrecta1": "Rembrandt",
+        "incorrecta2": "Jan van Eyck",
+        "incorrecta3": "Pieter Bruegel"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué obra arquitectónica es un ejemplo destacado del Renacimiento italiano?",
+        "respuesta": "La Basílica de San Pedro en el Vaticano",
+        "incorrecta1": "La Sagrada Familia en Barcelona",
+        "incorrecta2": "El Partenón en Atenas",
+        "incorrecta3": "La Torre de Pisa"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿En qué año se inauguró el Museo del Prado en Madrid?",
+        "respuesta": "1819",
+        "incorrecta1": "1789",
+        "incorrecta2": "1900",
+        "incorrecta3": "1850"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué obra de Michelangelo se encuentra en la Capilla Sixtina?",
+        "respuesta": "El fresco del techo de la Capilla Sixtina",
+        "incorrecta1": "La escultura de David",
+        "incorrecta2": "La Piedad",
+        "incorrecta3": "La creación de Adán"
+    },
+    {
+        "categoria": "Artes",
+        "pregunta": "¿Qué material es comúnmente utilizado en la técnica del grabado?",
+        "respuesta": "Placa de metal",
+        "incorrecta1": "Lienzo",
+        "incorrecta2": "Papel",
+        "incorrecta3": "Arcilla"
+    }
+]

@@ -4,6 +4,7 @@
 
 body {
     background-image: url("imagen.png");
+    background-repeat: no-repeat;
     padding: 0;
     margin: 0;
     text-align: center;
@@ -15,14 +16,13 @@ body {
 .contenedor {
     width: 98vw;
     height: 97vh;
-    display: inline-flex;
     position: fixed;
     justify-content: center;
     align-items: center;
 }
 div.contenedor{
-    left: 5px;
-    top: -300px;
+    left: 622px;
+    top: 80px;
 }
 
 .encabezado {
@@ -31,7 +31,7 @@ div.contenedor{
     min-width: 300px;
     width: 70%;
     max-width: 600px;
-    padding: 10px;
+    padding: 30px;
 }
 
 .categoria {
