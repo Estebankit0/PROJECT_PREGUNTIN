@@ -1,0 +1,218 @@
+[
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el elemento más abundante en la atmósfera terrestre?",
+        "respuesta": "Nitrógeno",
+        "incorrecta1": "Oxígeno",
+        "incorrecta2": "Hidrógeno",
+        "incorrecta3": "Carbono"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "respuesta": "Au",
+        "incorrecta1": "Ag",
+        "incorrecta2": "Fe",
+        "incorrecta3": "Hg"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué es el H2O?",
+        "respuesta": "Agua",
+        "incorrecta1": "Dióxido de carbono",
+        "incorrecta2": "Amoniaco",
+        "incorrecta3": "Metano"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué ácido se encuentra en el estómago humano?",
+        "respuesta": "Ácido clorhídrico",
+        "incorrecta1": "Ácido sulfúrico",
+        "incorrecta2": "Ácido nítrico",
+        "incorrecta3": "Ácido acético"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el elemento químico con el número atómico 1?",
+        "respuesta": "Hidrógeno",
+        "incorrecta1": "Helio",
+        "incorrecta2": "Litio",
+        "incorrecta3": "Oxígeno"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué tipo de enlace une los átomos en una molécula de agua?",
+        "respuesta": "Enlace covalente",
+        "incorrecta1": "Enlace iónico",
+        "incorrecta2": "Puente de hidrógeno",
+        "incorrecta3": "Enlace metálico"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué elemento es necesario para que ocurra la combustión?",
+        "respuesta": "Oxígeno",
+        "incorrecta1": "Nitrógeno",
+        "incorrecta2": "Hidrógeno",
+        "incorrecta3": "Carbono"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el metal más ligero?",
+        "respuesta": "Litio",
+        "incorrecta1": "Aluminio",
+        "incorrecta2": "Sodio",
+        "incorrecta3": "Magnesio"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué gas es conocido como el 'gas de la risa'?",
+        "respuesta": "Óxido nitroso",
+        "incorrecta1": "Dióxido de carbono",
+        "incorrecta2": "Metano",
+        "incorrecta3": "Monóxido de carbono"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el pH del agua pura?",
+        "respuesta": "7",
+        "incorrecta1": "5",
+        "incorrecta2": "9",
+        "incorrecta3": "4"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el elemento más abundante en el universo?",
+        "respuesta": "Hidrógeno",
+        "incorrecta1": "Helio",
+        "incorrecta2": "Oxígeno",
+        "incorrecta3": "Nitrógeno"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el nombre común del cloruro de sodio?",
+        "respuesta": "Sal",
+        "incorrecta1": "Azúcar",
+        "incorrecta2": "Vinagre",
+        "incorrecta3": "Sulfato"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es la fórmula química del dióxido de carbono?",
+        "respuesta": "CO2",
+        "incorrecta1": "C2O",
+        "incorrecta2": "CO",
+        "incorrecta3": "H2O"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué tipo de reacción libera calor?",
+        "respuesta": "Exotérmica",
+        "incorrecta1": "Endotérmica",
+        "incorrecta2": "Isotérmica",
+        "incorrecta3": "Adiabática"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué elemento tiene el símbolo químico 'Na'?",
+        "respuesta": "Sodio",
+        "incorrecta1": "Nitrógeno",
+        "incorrecta2": "Níquel",
+        "incorrecta3": "Neón"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué proceso químico se utiliza para separar mezclas basadas en la volatilidad?",
+        "respuesta": "Destilación",
+        "incorrecta1": "Filtración",
+        "incorrecta2": "Decantación",
+        "incorrecta3": "Sublimación"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué gas es responsable del efecto invernadero?",
+        "respuesta": "Dióxido de carbono",
+        "incorrecta1": "Oxígeno",
+        "incorrecta2": "Nitrógeno",
+        "incorrecta3": "Helio"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué partícula subatómica tiene carga negativa?",
+        "respuesta": "Electrón",
+        "incorrecta1": "Protón",
+        "incorrecta2": "Neutrón",
+        "incorrecta3": "Cuark"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el compuesto más abundante en la corteza terrestre?",
+        "respuesta": "Sílice",
+        "incorrecta1": "Carbonato de calcio",
+        "incorrecta2": "Sulfato de sodio",
+        "incorrecta3": "Nitrato de potasio"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué sustancia se conoce como el 'disolvente universal'?",
+        "respuesta": "Agua",
+        "incorrecta1": "Alcohol",
+        "incorrecta2": "Amoníaco",
+        "incorrecta3": "Benceno"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué es un catión?",
+        "respuesta": "Un ion con carga positiva",
+        "incorrecta1": "Un ion con carga negativa",
+        "incorrecta2": "Un átomo neutro",
+        "incorrecta3": "Un electrón"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué ley química establece que la masa no se crea ni se destruye en una reacción química?",
+        "respuesta": "Ley de conservación de la masa",
+        "incorrecta1": "Ley de las proporciones múltiples",
+        "incorrecta2": "Ley de los gases ideales",
+        "incorrecta3": "Ley de acción de masas"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué tipo de compuesto químico es el HCl?",
+        "respuesta": "Ácido",
+        "incorrecta1": "Base",
+        "incorrecta2": "Sal",
+        "incorrecta3": "Óxido"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué mide la escala de pH?",
+        "respuesta": "Acidez o basicidad de una sustancia",
+        "incorrecta1": "Conductividad",
+        "incorrecta2": "Masa molecular",
+        "incorrecta3": "Temperatura de fusión"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué compuesto se produce durante la fotosíntesis?",
+        "respuesta": "Glucosa",
+        "incorrecta1": "Ácido láctico",
+        "incorrecta2": "Alcohol etílico",
+        "incorrecta3": "Metano"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el gas noble más ligero?",
+        "respuesta": "Helio",
+        "incorrecta1": "Neón",
+        "incorrecta2": "Argón",
+        "incorrecta3": "Xenón"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué partícula subatómica tiene carga positiva?",
+        "respuesta": "Protón",
+        "incorrecta1": "Neutrón",
+        "incorrecta2": "Electrón",
+        "incorrecta3": "Bosón"
+    }
+]

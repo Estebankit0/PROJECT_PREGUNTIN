@@ -1,0 +1,210 @@
+[
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es el proceso por el cual las plantas producen su propio alimento?",
+        "respuesta": "Fotosíntesis",
+        "incorrecta1": "Respiración",
+        "incorrecta2": "Fermentación",
+        "incorrecta3": "Oxidación"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "respuesta": "Piel",
+        "incorrecta1": "Hígado",
+        "incorrecta2": "Cerebro",
+        "incorrecta3": "Pulmones"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cómo se llama la unidad básica de la vida?",
+        "respuesta": "Célula",
+        "incorrecta1": "Tejido",
+        "incorrecta2": "Órgano",
+        "incorrecta3": "Átomo"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tipo de célula carece de núcleo definido?",
+        "respuesta": "Célula procariota",
+        "incorrecta1": "Célula eucariota",
+        "incorrecta2": "Célula vegetal",
+        "incorrecta3": "Célula animal"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cómo se llama el pigmento que da color verde a las plantas?",
+        "respuesta": "Clorofila",
+        "incorrecta1": "Melanina",
+        "incorrecta2": "Hemoglobina",
+        "incorrecta3": "Caroteno"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué molécula transporta oxígeno en la sangre?",
+        "respuesta": "Hemoglobina",
+        "incorrecta1": "Insulina",
+        "incorrecta2": "Glucógeno",
+        "incorrecta3": "Colágeno"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cómo se llama el proceso por el cual una célula se divide en dos células hijas?",
+        "respuesta": "Mitosis",
+        "incorrecta1": "Meiosis",
+        "incorrecta2": "Fisión binaria",
+        "incorrecta3": "Citocinesis"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué parte de la célula contiene el material genético?",
+        "respuesta": "Núcleo",
+        "incorrecta1": "Citoplasma",
+        "incorrecta2": "Membrana plasmática",
+        "incorrecta3": "Mitocondria"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué glándula produce insulina en el cuerpo humano?",
+        "respuesta": "Páncreas",
+        "incorrecta1": "Tiroides",
+        "incorrecta2": "Glándula suprarrenal",
+        "incorrecta3": "Hígado"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué animal puede regenerar partes de su cuerpo, como su cola?",
+        "respuesta": "Salamandra",
+        "incorrecta1": "Tortuga",
+        "incorrecta2": "Gato",
+        "incorrecta3": "Águila"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tipo de animal es una rana?",
+        "respuesta": "Anfibio",
+        "incorrecta1": "Reptil",
+        "incorrecta2": "Mamífero",
+        "incorrecta3": "Ave"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es el órgano responsable de bombear la sangre en el cuerpo?",
+        "respuesta": "Corazón",
+        "incorrecta1": "Pulmones",
+        "incorrecta2": "Riñones",
+        "incorrecta3": "Hígado"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué científicos son conocidos por su teoría de la evolución?",
+        "respuesta": "Charles Darwin",
+        "incorrecta1": "Isaac Newton",
+        "incorrecta2": "Albert Einstein",
+        "incorrecta3": "Louis Pasteur"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cómo se llama el proceso mediante el cual los organismos obtienen energía a partir del oxígeno?",
+        "respuesta": "Respiración celular",
+        "incorrecta1": "Fotosíntesis",
+        "incorrecta2": "Fermentación",
+        "incorrecta3": "Transpiración"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tipo de sangre es considerado el donante universal?",
+        "respuesta": "O negativo",
+        "incorrecta1": "AB positivo",
+        "incorrecta2": "A positivo",
+        "incorrecta3": "B negativo"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tejido conecta los músculos con los huesos?",
+        "respuesta": "Tendones",
+        "incorrecta1": "Ligamentos",
+        "incorrecta2": "Cartílago",
+        "incorrecta3": "Músculos"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué proceso biológico se encarga de eliminar desechos líquidos del cuerpo?",
+        "respuesta": "Excreción",
+        "incorrecta1": "Transpiración",
+        "incorrecta2": "Digestión",
+        "incorrecta3": "Respiración"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué estructura celular se encarga de producir energía en las células?",
+        "respuesta": "Mitocondria",
+        "incorrecta1": "Cloroplasto",
+        "incorrecta2": "Núcleo",
+        "incorrecta3": "Ribosoma"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué parte del sistema nervioso central es responsable de coordinar los movimientos voluntarios?",
+        "respuesta": "Cerebelo",
+        "incorrecta1": "Tálamo",
+        "incorrecta2": "Hipotálamo",
+        "incorrecta3": "Corteza cerebral"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tipo de célula del sistema inmune destruye bacterias y virus?",
+        "respuesta": "Linfocitos",
+        "incorrecta1": "Glóbulos rojos",
+        "incorrecta2": "Plaquetas",
+        "incorrecta3": "Neurotransmisores"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué tipo de reproducción implica la fusión de dos gametos?",
+        "respuesta": "Reproducción sexual",
+        "incorrecta1": "Reproducción asexual",
+        "incorrecta2": "Gemación",
+        "incorrecta3": "Fisión binaria"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es la principal fuente de energía para los seres vivos?",
+        "respuesta": "Glucosa",
+        "incorrecta1": "Proteínas",
+        "incorrecta2": "Lípidos",
+        "incorrecta3": "Vitaminas"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es el nombre de la molécula que almacena información genética?",
+        "respuesta": "ADN",
+        "incorrecta1": "ARN",
+        "incorrecta2": "Proteína",
+        "incorrecta3": "Lípido"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué glóbulos transportan oxígeno en la sangre?",
+        "respuesta": "Glóbulos rojos",
+        "incorrecta1": "Glóbulos blancos",
+        "incorrecta2": "Plaquetas",
+        "incorrecta3": "Linfocitos"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Qué parte de la planta se encarga de absorber el agua y los nutrientes?",
+        "respuesta": "Raíces",
+        "incorrecta1": "Hojas",
+        "incorrecta2": "Flores",
+        "incorrecta3": "Fruto"
+    },
+    {
+        "categoria": "Biología",
+        "pregunta": "¿Cuál es el nombre del proceso en el que una célula eucariota se divide para producir células sexuales?",
+        "respuesta": "Meiosis",
+        "incorrecta1": "Mitosis",
+        "incorrecta2": "Citocinesis",
+        "incorrecta3": "Fisión"
+    }
+]

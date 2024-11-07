@@ -1,0 +1,218 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+        "respuesta": "1914",
+        "incorrecta1": "1918",
+        "incorrecta2": "1939",
+        "incorrecta3": "1945"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "respuesta": "George Washington",
+        "incorrecta1": "Abraham Lincoln",
+        "incorrecta2": "Thomas Jefferson",
+        "incorrecta3": "John Adams"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué civilización construyó las pirámides de Giza?",
+        "respuesta": "Egipcios",
+        "incorrecta1": "Aztecas",
+        "incorrecta2": "Romanos",
+        "incorrecta3": "Incas"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el líder de la Revolución Cubana en 1959?",
+        "respuesta": "Fidel Castro",
+        "incorrecta1": "Che Guevara",
+        "incorrecta2": "Camilo Cienfuegos",
+        "incorrecta3": "Raúl Castro"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué país ocurrió la Revolución Francesa?",
+        "respuesta": "Francia",
+        "incorrecta1": "Inglaterra",
+        "incorrecta2": "España",
+        "incorrecta3": "Italia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el último emperador de Roma?",
+        "respuesta": "Rómulo Augústulo",
+        "incorrecta1": "Julio César",
+        "incorrecta2": "Nerón",
+        "incorrecta3": "Constantino"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+        "respuesta": "1492",
+        "incorrecta1": "1498",
+        "incorrecta2": "1485",
+        "incorrecta3": "1501"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?",
+        "respuesta": "Estados Unidos",
+        "incorrecta1": "Japón",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Rusia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el líder del Partido Nazi durante la Segunda Guerra Mundial?",
+        "respuesta": "Adolf Hitler",
+        "incorrecta1": "Benito Mussolini",
+        "incorrecta2": "Joseph Stalin",
+        "incorrecta3": "Winston Churchill"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año cayó el Muro de Berlín?",
+        "respuesta": "1989",
+        "incorrecta1": "1991",
+        "incorrecta2": "1985",
+        "incorrecta3": "1993"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué imperio fue derrotado en la Batalla de Waterloo?",
+        "respuesta": "Imperio Napoleónico",
+        "incorrecta1": "Imperio Británico",
+        "incorrecta2": "Imperio Alemán",
+        "incorrecta3": "Imperio Austrohúngaro"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer faraón de Egipto unificado?",
+        "respuesta": "Narmer",
+        "incorrecta1": "Tutankamón",
+        "incorrecta2": "Ramsés II",
+        "incorrecta3": "Akenatón"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué país comenzó la Revolución Industrial?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "Alemania"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+        "respuesta": "Tratado de Versalles",
+        "incorrecta1": "Tratado de París",
+        "incorrecta2": "Tratado de Tordesillas",
+        "incorrecta3": "Tratado de Gante"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer hombre en caminar sobre la luna?",
+        "respuesta": "Neil Armstrong",
+        "incorrecta1": "Buzz Aldrin",
+        "incorrecta2": "Yuri Gagarin",
+        "incorrecta3": "John Glenn"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué dinastía gobernó China durante la construcción de la Gran Muralla?",
+        "respuesta": "Dinastía Qin",
+        "incorrecta1": "Dinastía Han",
+        "incorrecta2": "Dinastía Ming",
+        "incorrecta3": "Dinastía Tang"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "respuesta": "1939",
+        "incorrecta1": "1941",
+        "incorrecta2": "1914",
+        "incorrecta3": "1929"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué antigua ciudad fue sepultada por la erupción del Monte Vesubio en el año 79 d.C.?",
+        "respuesta": "Pompeya",
+        "incorrecta1": "Cartago",
+        "incorrecta2": "Esparta",
+        "incorrecta3": "Alejandría"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué rey inglés rompió con la Iglesia Católica y fundó la Iglesia Anglicana?",
+        "respuesta": "Enrique VIII",
+        "incorrecta1": "Ricardo Corazón de León",
+        "incorrecta2": "Guillermo el Conquistador",
+        "incorrecta3": "Eduardo VI"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué mujer fue conocida como la 'Dama de Hierro'?",
+        "respuesta": "Margaret Thatcher",
+        "incorrecta1": "Isabel I",
+        "incorrecta2": "Juana de Arco",
+        "incorrecta3": "Catalina la Grande"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué país fue gobernado por los zares hasta 1917?",
+        "respuesta": "Rusia",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Polonia",
+        "incorrecta3": "Hungría"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué evento histórico marcó el fin de la Edad Media?",
+        "respuesta": "Caída de Constantinopla",
+        "incorrecta1": "Descubrimiento de América",
+        "incorrecta2": "Revolución Francesa",
+        "incorrecta3": "Invasión de los Bárbaros"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué presidente de Estados Unidos abolió la esclavitud?",
+        "respuesta": "Abraham Lincoln",
+        "incorrecta1": "George Washington",
+        "incorrecta2": "Theodore Roosevelt",
+        "incorrecta3": "Franklin D. Roosevelt"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué ciudad-estado luchó contra Esparta en la Guerra del Peloponeso?",
+        "respuesta": "Atenas",
+        "incorrecta1": "Corinto",
+        "incorrecta2": "Argos",
+        "incorrecta3": "Tebas"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el conquistador que derrotó al Imperio Azteca?",
+        "respuesta": "Hernán Cortés",
+        "incorrecta1": "Francisco Pizarro",
+        "incorrecta2": "Pedro de Alvarado",
+        "incorrecta3": "Vasco Núñez de Balboa"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el primer emperador de China?",
+        "respuesta": "Qin Shi Huang",
+        "incorrecta1": "Liu Bang",
+        "incorrecta2": "Kublai Khan",
+        "incorrecta3": "Sun Yat-sen"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué guerra se luchó entre el norte y el sur de Estados Unidos?",
+        "respuesta": "Guerra Civil Estadounidense",
+        "incorrecta1": "Guerra de Independencia",
+        "incorrecta2": "Guerra de 1812",
+        "incorrecta3": "Guerra de Vietnam"
+    }
+]

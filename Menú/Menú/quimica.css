@@ -1,0 +1,117 @@
+* {
+    transition: all 0.3s;
+}
+
+body {
+    background-image: url("imagen.png");
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Gill Sans';
+    color: rgb(0, 0, 0);
+    font-size: 120%;
+}
+
+.contenedor {
+    width: 98vw;
+    height: 97vh;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
+div.contenedor{
+    left: 622px;
+    top: 80px;
+}
+
+.encabezado {
+    position: relative;
+    background: rgb(142, 72, 199);
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 30px;
+}
+
+.categoria {
+    opacity: 0.5;
+    text-align: left;
+}
+
+.pregunta {
+    padding: 10px;
+}
+
+.btn1 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+div.btn1 {
+    height: 20px;
+    position: fixed;
+    left: 62px;
+    top: 400px;
+} 
+.btn2 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+div.btn2 {
+    height: 20px;
+    position: fixed;
+    left: 1230px;
+    top: 400px;
+} 
+.btn3 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+div.btn3 {
+    height: 20px;
+    position: fixed;
+    left: 1230px;
+    top: 700px;
+} 
+.btn4 {
+    background: #ffffff;
+    width: 60%;
+    max-width: 550px;
+    padding: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+div.btn4 {
+    height: 20px;
+    position: fixed;
+    left: 62px;
+    top: 700px;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}           
+  
+.numero{
+    position: absolute;
+    opacity:0.5;
+    top: 10px;
+    right: 10px;
+}
+  
+.puntaje{
+    padding:10px;
+    color:rgb(0, 0, 0);
+}
