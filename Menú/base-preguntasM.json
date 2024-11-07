@@ -1,0 +1,226 @@
+[
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuánto es 9 x 8?",
+        "respuesta": "72",
+        "incorrecta1": "64",
+        "incorrecta2": "81",
+        "incorrecta3": "70"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una división?",
+        "respuesta": "Una operación matemática en la que se reparte una cantidad entre varias partes",
+        "incorrecta1": "Una operación en la que se suman varios números",
+        "incorrecta2": "Una operación en la que se multiplican varios números",
+        "incorrecta3": "Una operación en la que se restan varios números"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es un cuadrado?",
+        "respuesta": "Una figura geométrica con cuatro lados de igual longitud",
+        "incorrecta1": "Una figura con tres lados",
+        "incorrecta2": "Una figura con cinco lados",
+        "incorrecta3": "Una figura con cuatro lados de diferentes longitudes"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuánto es 64 dividido por 8?",
+        "respuesta": "8",
+        "incorrecta1": "6",
+        "incorrecta2": "10",
+        "incorrecta3": "12"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo se llama la forma de una pelota de fútbol?",
+        "respuesta": "Esférica",
+        "incorrecta1": "Cúbica",
+        "incorrecta2": "Cilíndrica",
+        "incorrecta3": "Piramidal"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una fracción?",
+        "respuesta": "Una forma de expresar una división entre dos números",
+        "incorrecta1": "Una multiplicación entre dos números",
+        "incorrecta2": "Una adición entre dos números",
+        "incorrecta3": "Una sustracción entre dos números"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es un número par?",
+        "respuesta": "Un número que es divisible por 2",
+        "incorrecta1": "Un número que no es divisible por 2",
+        "incorrecta2": "Un número mayor que 10",
+        "incorrecta3": "Un número menor que 0"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es un número entero?",
+        "respuesta": "Un número sin fracciones ni decimales",
+        "incorrecta1": "Un número con decimales",
+        "incorrecta2": "Un número positivo",
+        "incorrecta3": "Un número negativo"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuánto es 15 x 5?",
+        "respuesta": "75",
+        "incorrecta1": "70",
+        "incorrecta2": "80",
+        "incorrecta3": "60"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es la raíz cuadrada de 49?",
+        "respuesta": "7",
+        "incorrecta1": "6",
+        "incorrecta2": "8",
+        "incorrecta3": "5"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuántos vértices tiene un octágono?",
+        "respuesta": "8",
+        "incorrecta1": "6",
+        "incorrecta2": "10",
+        "incorrecta3": "4"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo se llama el área de un círculo?",
+        "respuesta": "π por el radio al cuadrado",
+        "incorrecta1": "π por el radio",
+        "incorrecta2": "2π por el radio",
+        "incorrecta3": "π por el diámetro"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuántos grados tiene un ángulo agudo?",
+        "respuesta": "Menos de 90 grados",
+        "incorrecta1": "90 grados",
+        "incorrecta2": "Más de 90 grados",
+        "incorrecta3": "180 grados"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el valor de π (pi) aproximadamente?",
+        "respuesta": "3.1416",
+        "incorrecta1": "3.14",
+        "incorrecta2": "3.15",
+        "incorrecta3": "2.14"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una fracción equivalente?",
+        "respuesta": "Una fracción que representa el mismo valor que otra",
+        "incorrecta1": "Una fracción con el mismo denominador",
+        "incorrecta2": "Una fracción con el mismo numerador",
+        "incorrecta3": "Una fracción que no se puede simplificar"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es el área de un triángulo?",
+        "respuesta": "Base por altura dividido entre 2",
+        "incorrecta1": "Base por altura",
+        "incorrecta2": "Base por altura por 2",
+        "incorrecta3": "Lado por lado"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una parábola?",
+        "respuesta": "Una curva simétrica en la que cada punto está a la misma distancia de un punto fijo y una línea fija",
+        "incorrecta1": "Una curva cerrada de forma elíptica",
+        "incorrecta2": "Una recta que forma un ángulo recto",
+        "incorrecta3": "Una figura con vértices agudos"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es un polígono regular?",
+        "respuesta": "Un polígono en el que todos sus lados y ángulos son iguales",
+        "incorrecta1": "Un polígono con lados de diferentes longitudes",
+        "incorrecta2": "Un polígono con ángulos agudos",
+        "incorrecta3": "Un polígono con más de cuatro lados"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuántos lados tiene un pentágono?",
+        "respuesta": "5",
+        "incorrecta1": "6",
+        "incorrecta2": "4",
+        "incorrecta3": "8"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es un número decimal?",
+        "respuesta": "Un número con una parte fraccionaria separada por un punto",
+        "incorrecta1": "Un número que es divisible por 10",
+        "incorrecta2": "Un número que no tiene decimales",
+        "incorrecta3": "Un número que es divisible por 2"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo se llama el resultado de una división?",
+        "respuesta": "Cociente",
+        "incorrecta1": "Resto",
+        "incorrecta2": "Suma",
+        "incorrecta3": "Producto"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una hipotenusa?",
+        "respuesta": "El lado más largo de un triángulo rectángulo",
+        "incorrecta1": "Uno de los catetos",
+        "incorrecta2": "La altura",
+        "incorrecta3": "La base"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuánto es 50 + 75?",
+        "respuesta": "125",
+        "incorrecta1": "100",
+        "incorrecta2": "150",
+        "incorrecta3": "130"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una recta?",
+        "respuesta": "Una línea infinita sin curvas",
+        "incorrecta1": "Una línea con una curvatura constante",
+        "incorrecta2": "Una línea que tiene principio y fin",
+        "incorrecta3": "Una línea que se cruza con otra en varios puntos"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es el teorema de Pitágoras?",
+        "respuesta": "Relación entre los lados de un triángulo rectángulo",
+        "incorrecta1": "La fórmula para calcular el área de un círculo",
+        "incorrecta2": "La suma de los ángulos internos de un triángulo",
+        "incorrecta3": "La ecuación de una parábola"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo se llama el número que representa la ausencia de cantidad?",
+        "respuesta": "Cero",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Infinito",
+        "incorrecta3": "Cinco"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es el valor absoluto de -12?",
+        "respuesta": "12",
+        "incorrecta1": "-12",
+        "incorrecta2": "0",
+        "incorrecta3": "24"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Qué es una progresión geométrica?",
+        "respuesta": "Una sucesión en la que cada término se obtiene multiplicando el anterior por una constante",
+        "incorrecta1": "Una sucesión en la que cada término se obtiene sumando un número constante",
+        "incorrecta2": "Una sucesión que sigue una relación cuadrática",
+        "incorrecta3": "Una sucesión en la que cada término se obtiene dividiendo el anterior por una constante"
+    }
+]

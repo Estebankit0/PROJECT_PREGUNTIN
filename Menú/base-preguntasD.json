@@ -1,0 +1,226 @@
+[
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó la Copa del Mundo de Fútbol de 2018?",
+        "respuesta": "Francia",
+        "incorrecta1": "Brasil",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "España"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se utiliza un balón ovalado?",
+        "respuesta": "Rugby",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Baloncesto",
+        "incorrecta3": "Voleibol"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién tiene el récord de más goles en la historia de la Copa del Mundo?",
+        "respuesta": "Marta",
+        "incorrecta1": "Cristiano Ronaldo",
+        "incorrecta2": "Lionel Messi",
+        "incorrecta3": "Miroslav Klose"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué país se originó el fútbol?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "España",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Argentina"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores tiene un equipo de baloncesto en el campo?",
+        "respuesta": "Cinco",
+        "incorrecta1": "Cuatro",
+        "incorrecta2": "Seis",
+        "incorrecta3": "Ocho"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó el Tour de Francia en 2020?",
+        "respuesta": "Tadej Pogačar",
+        "incorrecta1": "Chris Froome",
+        "incorrecta2": "Egan Bernal",
+        "incorrecta3": "Vincenzo Nibali"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se compite por un 'home run'?",
+        "respuesta": "Béisbol",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Baloncesto",
+        "incorrecta3": "Golf"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién es el máximo goleador histórico de la Liga de Campeones de la UEFA?",
+        "respuesta": "Cristiano Ronaldo",
+        "incorrecta1": "Lionel Messi",
+        "incorrecta2": "Raúl González",
+        "incorrecta3": "Robert Lewandowski"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se lleva a cabo el Super Bowl?",
+        "respuesta": "Fútbol americano",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Rugby",
+        "incorrecta3": "Balonmano"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se utiliza el término 'ace'?",
+        "respuesta": "Tenis",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Voleibol",
+        "incorrecta3": "Baloncesto"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores componen un equipo de rugby?",
+        "respuesta": "15",
+        "incorrecta1": "11",
+        "incorrecta2": "7",
+        "incorrecta3": "9"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué año se celebró el primer Mundial de Fútbol?",
+        "respuesta": "1930",
+        "incorrecta1": "1924",
+        "incorrecta2": "1940",
+        "incorrecta3": "1928"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién es el máximo goleador histórico de la NBA?",
+        "respuesta": "LeBron James",
+        "incorrecta1": "Michael Jordan",
+        "incorrecta2": "Kareem Abdul-Jabbar",
+        "incorrecta3": "Kobe Bryant"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se utiliza una raqueta con cuerdas?",
+        "respuesta": "Tenis",
+        "incorrecta1": "Golf",
+        "incorrecta2": "Bádminton",
+        "incorrecta3": "Fútbol"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué equipo ganó la última Copa América en 2021?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Brasil",
+        "incorrecta2": "Chile",
+        "incorrecta3": "Uruguay"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué atleta tiene el récord mundial de los 100 metros planos?",
+        "respuesta": "Usain Bolt",
+        "incorrecta1": "Carl Lewis",
+        "incorrecta2": "Michael Johnson",
+        "incorrecta3": "Tyson Gay"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se realiza el evento conocido como 'Maratón'?",
+        "respuesta": "Atletismo",
+        "incorrecta1": "Natación",
+        "incorrecta2": "Ciclismo",
+        "incorrecta3": "Esquí"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el nombre del torneo de tenis más importante en césped?",
+        "respuesta": "Wimbledon",
+        "incorrecta1": "Roland Garros",
+        "incorrecta2": "Abierto de Australia",
+        "incorrecta3": "US Open"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugador de fútbol es conocido como 'La Pulga'?",
+        "respuesta": "Lionel Messi",
+        "incorrecta1": "Cristiano Ronaldo",
+        "incorrecta2": "Neymar",
+        "incorrecta3": "Luis Suárez"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién tiene el récord de más victorias en el Gran Premio de Mónaco de Fórmula 1?",
+        "respuesta": "Ayrton Senna",
+        "incorrecta1": "Michael Schumacher",
+        "incorrecta2": "Lewis Hamilton",
+        "incorrecta3": "Sebastian Vettel"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores conforman un equipo de fútbol en el campo durante un partido?",
+        "respuesta": "11",
+        "incorrecta1": "10",
+        "incorrecta2": "12",
+        "incorrecta3": "9"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se juega el torneo 'The Masters'?",
+        "respuesta": "Golf",
+        "incorrecta1": "Tenis",
+        "incorrecta2": "Fútbol",
+        "incorrecta3": "Boxeo"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién fue el primer jugador en la NBA en anotar 100 puntos en un solo partido?",
+        "respuesta": "Wilt Chamberlain",
+        "incorrecta1": "Kobe Bryant",
+        "incorrecta2": "Shaquille O'Neal",
+        "incorrecta3": "Michael Jordan"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país ganó la Copa del Mundo de Rugby 2019?",
+        "respuesta": "Sudáfrica",
+        "incorrecta1": "Inglaterra",
+        "incorrecta2": "Nueva Zelanda",
+        "incorrecta3": "Australia"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué país se celebra la Copa del Mundo de Fútbol 2022?",
+        "respuesta": "Qatar",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Sudáfrica"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos sets se juegan en un partido de tenis en los torneos más importantes?",
+        "respuesta": "Tres o cinco",
+        "incorrecta1": "Uno o dos",
+        "incorrecta2": "Cinco o seis",
+        "incorrecta3": "Ocho"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugador es conocido como 'La Bestia' en el fútbol por su estilo de juego fuerte?",
+        "respuesta": "Adebayo Akinfenwa",
+        "incorrecta1": "Zlatan Ibrahimović",
+        "incorrecta2": "Cristiano Ronaldo",
+        "incorrecta3": "Wayne Rooney"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se utiliza una pelota y un palo curvado para marcar goles?",
+        "respuesta": "Hockey",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Rugby",
+        "incorrecta3": "Cricket"
+    }
+]

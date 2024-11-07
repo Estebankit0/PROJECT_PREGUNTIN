@@ -23,13 +23,13 @@ boton4.addEventListener("click", function() {
 });
 
 boton5.addEventListener("click", function() {
-    // Lógica para boton5
+    window.location.href = 'matematicas.html';
 });
 
 boton6.addEventListener("click", function() {
-    // Lógica para boton6
+    window.location.href = 'artes.html';
 });
 
 boton7.addEventListener("click", function() {
-    // Lógica para boton7
+    window.location.href = 'deportes.html';
 });
